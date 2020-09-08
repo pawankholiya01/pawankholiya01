@@ -10,6 +10,9 @@ I'm a **Pre-Final Year CSE** undergrad at **NIT-Jalandhar.**
 - 📖 Currently Reading [**How Not to Be Wrong:** The Power of Mathematical Thinking ](https://www.goodreads.com/book/show/18693884-how-not-to-be-wrong) 
 - 💬 Reach out to me for any help related to `Interview Prepration` or `Competitive Programming` 😄 
 - 📫 How to reach me: Drop a message at [**LinkedIn** ](https://www.linkedin.com/in/pawan-kholiya/) or mail at [**pawan.kholiya01@gmail.com** ](mailto:pawan.kholiya01@gmail.com) I will be more than happy to hear from you😇.
+
+![](https://komarev.com/ghpvc/?username=pawankholiya01&color=blue)
+
 <!--
 **pawankholiya01/pawankholiya01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
